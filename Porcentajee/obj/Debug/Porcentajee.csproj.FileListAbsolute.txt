@@ -1,0 +1,15 @@
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\bin\Debug\Porcentaje.exe.config
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\bin\Debug\Porcentaje.exe.manifest
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\bin\Debug\Porcentaje.application
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\bin\Debug\Porcentaje.exe
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\bin\Debug\Porcentaje.pdb
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\obj\Debug\Porcentajee.csprojAssemblyReference.cache
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\obj\Debug\Porcentajee.Form1.resources
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\obj\Debug\Porcentajee.Properties.Resources.resources
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\obj\Debug\Porcentajee.csproj.GenerateResource.cache
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\obj\Debug\Porcentajee.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\obj\Debug\Porcentaje.TrustInfo.xml
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\obj\Debug\Porcentaje.exe.manifest
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\obj\Debug\Porcentaje.application
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\obj\Debug\Porcentaje.exe
+C:\Users\Gerardo\Desktop\RepositoriosC\Porcentajee\Porcentajee\obj\Debug\Porcentaje.pdb
