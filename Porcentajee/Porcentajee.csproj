@@ -12,7 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>G:\documentos\</PublishUrl>
+    <PublishUrl>G:\Programas\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>percentage_77945.ico</ApplicationIcon>
+    <ApplicationIcon>3440923-discount-ecommerce-label-percentage-shopping-tag_107535.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>B07170B01B1005AB811788F1FA41C611EE56F796</ManifestCertificateThumbprint>
@@ -119,6 +119,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="3440923-discount-ecommerce-label-percentage-shopping-tag_107535.ico" />
     <Content Include="percentage_77945.ico" />
   </ItemGroup>
   <ItemGroup>

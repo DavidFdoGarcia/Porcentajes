@@ -19,13 +19,15 @@ namespace Porcentajee
 
         private void txConvertir_Click(object sender, EventArgs e)
         {
-            double x, d;
+            double x, d, y, r;
 
             x = double.Parse(textBox1.Text);
+            y = double.Parse(textBox2.Text);
 
-            d = 0.2 * x;
+            d = (y / 100) * x;
+            r = d + x;
 
-            MessageBox.Show("El 20% de " + x + " es: " + d);
+            MessageBox.Show("El monto de cobro es " + r);
         }
 
         private void txConvertir_KeyPress(object sender, KeyPressEventArgs e)
@@ -46,6 +48,11 @@ namespace Porcentajee
 
                 MessageBox.Show("El 20% de " + x + " es: " + d);
             }
+        }
+
+        private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            validacion.SoloNumeros(e);
         }
     }
 }
